@@ -15,3 +15,6 @@ Api的调用说明来自 http://www.cnblogs.com/azure/archive/2012/08/29/WeiboAP
 短网址结果文本 class="su_link" </br>
 生成按钮 class="su_btn"  </br>
 我的链接 class="su_edi" </br>
+</br>
+直接在要引用的页面使用类似下面语句引用js即可</br>
+\<script src="./shorturl-1.0.js"\>\</script\></br>
