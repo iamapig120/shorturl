@@ -1,3 +1,4 @@
+/* by Handle https://www.bysb.net/ 2016.03.09 */
 document.write('<form name="input" class="su_inp" >请输入长网址：<br><input style="width: 100%;" value="http://" id="long" name="long" class="su_url" ><br><div id="link" class="su_link" ><p>生成的短网址：</p></div><br><a class="su_btn" href="javascript:shorturl()">点击这里生成</a><br><a class="su_edi" href="https://www.bysb.net/" target="_blank">作者：手柄君</a></form>');//生成整个表单
 function shorturl() {
 	var long = document.input.long.value;//获取长网址 
