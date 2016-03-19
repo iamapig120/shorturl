@@ -4,7 +4,7 @@
 百度1056282997 </br>
 腾讯857571554 </br>
 网站 https://www.bysb.net/ </br>
-使用请保留作者信息 </br>
+<stong>使用请保留作者信息 </stong></br>
 app kay 是倒霉的新浪ipad客户端 </br>
 Api的调用说明来自 http://www.cnblogs.com/azure/archive/2012/08/29/WeiboAPI.html </br>
 就这些吧。 </br>
@@ -17,4 +17,7 @@ Api的调用说明来自 http://www.cnblogs.com/azure/archive/2012/08/29/WeiboAP
 我的链接 class="su_edi" </br>
 </br>
 直接在要引用的页面使用类似下面语句引用js即可</br>
-\<script src="./shorturl-1.0.js"\>\</script\></br>
+\<script src="./shorturl-1.1.js"\>\</script\></br>
+</br>
+更新于2016.03.19</br>
+修复了一个bug，这个bug曾经导致网址带有多个参数时，第二个及更多的参数无法正确制作短网址</br>
