@@ -20,4 +20,4 @@ Api的调用说明来自 http://www.cnblogs.com/azure/archive/2012/08/29/WeiboAP
 \<script src="./shorturl-1.1.js"\>\</script\></br>
 </br>
 更新于2016.03.19 shorturl-1.1</br>
-修复了一个bug，这个bug曾经导致网址带有多个参数时，第二个及更多的参数无法正确制作短网址</br>
+修复了一个bug，这个bug曾经导致网址带有多个参数或锚点时，第二个及更多的参数以及锚点无法被正确制作尾短网址</br>
